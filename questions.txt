@@ -1,0 +1,10 @@
+What keyword is used to start a loop that goes through each item in a sequence?|for
+What built-in function displays output on the screen (name only, no brackets)?|print
+What built-in function returns the number of items in a list (name only, no brackets)?|len
+Which data type stores text in Python?|str
+What keyword is used to bring a module into your program?|import
+Which data type stores True or False values?|bool
+What operator gives the remainder of a division?|%
+What keyword is used to start a condition check in Python?|if
+What built-in function reads text typed by the user (name only, no brackets)?|input
+What keyword sends a value back from a function?|return
